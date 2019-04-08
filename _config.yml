@@ -1,4 +1,13 @@
 title: New School Archives Documentation
+
+# Build settings
 remote_theme: pmarsceill/just-the-docs
 github_username:  newschoolarchives
+
+# Enable or disable the site search
 search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+    "The New School Library and Archives":
+      - "//library.newschool.edu/archives"
