@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fixity
-nav_order: 12
+nav_order: 21
 parent: Data Integrity
 
 ---

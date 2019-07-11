@@ -35,7 +35,7 @@ The processing archivist will transcribe disks and appraise the contents using Q
 
    *   Note: Audio media may appear as a series of files with the type CD Audio Track [.CDA files].  These will not copy successfully from the disk and must be extracted using EAC.
    
-<iframe src="https://drive.google.com/file/d/14FSKGDrv9vruG7m_PTpwARHYFoapLMCR/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/14FSKGDrv9vruG7m_PTpwARHYFoapLMCR/preview"></iframe>
 
 [Windows]
 
@@ -46,7 +46,7 @@ The processing archivist will transcribe disks and appraise the contents using Q
 *   Go to _Database > Get CD Information From > Remote Metadata Provider_. EAC will attempt to download information and if there are multiple results, you will be prompted to double-click on the correct one to save.
 *   If no information on audio CD was provided by EAC, assign a title, artist (i.e., the collection creator, unless there is a clearly identified individual or group who is responsible for the recording and/or holds copyright) and year. If applicable, you may also add a genre as well as performer (especially if others have contributed to the recording) and composer.  If known, you may also add titles to the individual tracks.
 
-<iframe src="https://drive.google.com/file/d/1m9foX_VD8PloIgwJsGPcJHbWzAQq63Ue/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1m9foX_VD8PloIgwJsGPcJHbWzAQq63Ue/preview"></iframe>
 
 *   After making sure that the check boxes next to all tracks are filled, select _Action > Copy Selected Tracks > Uncompressed_.   
 
@@ -77,11 +77,11 @@ Full command line options may be found at:
 
 *   Important: Make sure that “Delete WAV after compression” is _un_checked_. If this box is checked, your working uncompressed WAV files will be deleted, and you may be forced to re-transfer files from the disk.
 
-<iframe src="https://drive.google.com/file/d/1jgPvnKx-fToElOyo3HJ0o9Z_PYmcer1p/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1jgPvnKx-fToElOyo3HJ0o9Z_PYmcer1p/preview"></iframe>
 
 *   Select uncompressed WAV files, and drag them into the EAC window.
 
-<iframe src="https://drive.google.com/file/d/1_Rx99DZuODQcuqtu0AbKZU2LpCMUjlyw/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1_Rx99DZuODQcuqtu0AbKZU2LpCMUjlyw/preview"></iframe>
 
 *   In the pop-up browser, navigate to the destination for your compressed MP3 files.
 *   When compression is complete, click OK.
@@ -96,11 +96,11 @@ Full command line options may be found at:
 *   Open Exact Audio Copy (EAC)
 *   Go to EAC > EAC Options > Character Replacements. Make sure that quotations marks (“), carets (^) and percent symbols (%) are not replaced by another character:
 
-<iframe src="https://drive.google.com/file/d/1D9CRQ0ACirKp8RmrZkMK6ZrGL4Ml0iZG/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1D9CRQ0ACirKp8RmrZkMK6ZrGL4Ml0iZG/preview"></iframe>
 
 *   Go to EAC > EAC Options > Write. Disable the option to use all uppercase characters on writing: 
 
-<iframe src="https://drive.google.com/file/d/1rDQaCpKBjffnDIv92MtKwb7S0FpWIHic/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1rDQaCpKBjffnDIv92MtKwb7S0FpWIHic/preview"></iframe>
 
 *   Go to EAC > EAC Options > Tools. Enable options to write a status report after extraction and to append a checksum to this report.
 
@@ -178,11 +178,11 @@ On occasion, larger/longer MP4 Videos may need to be compressed further to facil
 
 Suggested Settings:
 
-<iframe src="https://drive.google.com/file/d/1vsW50tv2NorCSlv9OQqWptCe8Tb-FE5H/preview" width="640"></iframe>
+<iframe src="https://drive.google.com/file/d/1vsW50tv2NorCSlv9OQqWptCe8Tb-FE5H/preview"></iframe>
 
-<iframe src="https://drive.google.com/file/d/13nlsOL4Otwc6m8OtSOvAr7DuR2DIUDqb/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/13nlsOL4Otwc6m8OtSOvAr7DuR2DIUDqb/preview"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1hStEJHSQObzIHU0D0igihuGv_ITNKYuF/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1hStEJHSQObzIHU0D0igihuGv_ITNKYuF/preview"></iframe>
 
 **Special Format - .rm files** 
 

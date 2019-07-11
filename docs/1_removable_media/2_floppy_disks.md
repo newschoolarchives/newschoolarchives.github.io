@@ -20,6 +20,8 @@ parent: Removable Media
 # Stage 1. Appraisal 
 The processing archivist will transcribe disks and appraise the contents using Quick View Plus. Directions for processing will be added to the [Disk Inventory Spreadsheet](https://docs.google.com/spreadsheets/d/1mNAgjEYjdHNR-sLehjg5YafFLu3W-U-SWUbc39D55-8/edit#gid=426583852)
 
+For a full description of the appraisal process, see the [Removable Media](https://newschoolarchives.github.io/docs/1_removable_media) overview. 
+
 # Stage 2. Create a Disk Image and Extract Files using Bitcurator
 The Bitcurator station (non-networked computer) will be used for the transfer of floppy disks.
 
