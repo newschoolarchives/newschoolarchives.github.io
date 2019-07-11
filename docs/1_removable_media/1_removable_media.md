@@ -8,6 +8,15 @@ has_children: true
 
 **_Workflow Type:_ Communication.** This document describes the processing lifecyle for removable media. For technical processing, proceed to media type.
 
+# Removable Media
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # Introduction
 
 The status of the various processes described in this document are communicated and tracked via the [Disk Inventory](https://docs.google.com/spreadsheets/d/1mNAgjEYjdHNR-sLehjg5YafFLu3W-U-SWUbc39D55-8/edit#gid=426583852) by the Processing Archivist and Digital Archivist.
@@ -17,7 +26,7 @@ Workflows related to removable media will differ somewhat based upon whether the
 
 ## _A Note on Terminology_
 
-For the purposes of clarity, in this manual and in communications between Processing and Digital Archivist, **_migration_** refers to the initial imaging and extraction of files from all legacy external media (including, but not limited to, floppy disk, CD, DVD). **_Transfer_ **refers to all subsequent copying and moving of files into and between directories on the network drive.
+For the purposes of clarity, in this manual and in communications between Processing and Digital Archivist, **_migration_** refers to the initial imaging and extraction of files from all legacy external media (including, but not limited to, floppy disk, CD, DVD). **_Transfer_** refers to all subsequent copying and moving of files into and between directories on the network drive.
 
 ## _Sequence Overview_
 
@@ -76,7 +85,7 @@ Disks may have already been separated and assigned identifiers--if so, proceed t
 
 ### Creating disk identifiers:
 
-*   Disk identifiers should be formatted as follows: [**accession** ID]_”D” [for disk]+[three digit number] (ex: 2014NS33_D001).
+*   Disk identifiers should be formatted as follows: [ **accession** ID] _ ”D” (for disk) + (three digit number) ( ex: 2014NS33_D001 ).
 
 
 ### Disk(s) not yet ready to be appraised, when there is accession record _only_:
@@ -84,7 +93,7 @@ Disks may have already been separated and assigned identifiers--if so, proceed t
 When a collection is accessioned and an accession record is being created, follow these guidelines for documenting the presence of removable media in a collection. Processing Archivist:
 
 *   Place loose CDs and DVDs into plastic or paper sleeves.
-*   For disks in folders, <span style="text-decoration:underline;">leave disk in place</span> in folder. Insert a paper flag. Indicate disk identifier (or range of identifiers) on flag, using naming convention described above. Note that it is not necessary to individually identify each disk at this time--list as a range (ex: 2014NS33_D001-D032).
+*   For disks in folders, _leave disk in place_ in folder. Insert a paper flag. Indicate disk identifier (or range of identifiers) on flag, using naming convention described above. Note that it is not necessary to individually identify each disk at this time--list as a range (ex: 2014NS33_D001-D032).
 *   In AT accession record inventory note, record disk ID (or range of IDs) present in the collection.
 *   Add disk or range of disks into Disk Inventory. It is not necessary to create a row for each disk at this time, they can be listed in a single row as a range (ex. 2014NS33_D001-D032)
 
@@ -233,7 +242,7 @@ Example:
 
     _Collection is open for research use. Digital files can be accessed onsite at The New School Archives. Please contact archivist@newschool.edu for appointment._
 
-If there is a mix of some files that are to be uploaded to CA and some that will be accessed on site only, use both notes, in revised form (e.g., “_Some _digital files can be accessed onsite . . . “). \
+If there is a mix of some files that are to be uploaded to CA and some that will be accessed on site only, use both notes, in revised form (e.g., “Some digital files can be accessed onsite . . . “). \
 
 
 If files on disk are restricted, indicate in AT according to similar convention as for restricted physical files.

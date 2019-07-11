@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DROID Reporting
-nav_order: 10
+nav_order: 18
 parent: Data Integrity
 
 ---
