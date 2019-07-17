@@ -96,7 +96,7 @@ pages 47-49 of the BitCurator Quickstart Guide:[http://distro.ibiblio.org/bitcur
     *   Use Exactly to transfer files from the harddrive to the staging server where file normalization will take place. 
 
 # Stage 3. Create Access Files
-See related manuals.
+[See related manuals](https://newschoolarchives.github.io/docs/3_access_files).
 
 
 # Stage 4. Contact Processing Archivist for a final review of content. 
