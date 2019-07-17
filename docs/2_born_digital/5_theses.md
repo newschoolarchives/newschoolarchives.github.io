@@ -62,7 +62,7 @@ Coordinate with department contacts to transfer thesis files. It is preferable t
 
 After all responses are submitted, download spreadsheet of responses created from the Google Form. This spreadsheet will result in the following documents:
 
-_Saved to related Collections folder in K: Central Kellen share_
+_Saved to K: Central Kellen share >related Collections folder_
 
 *   The original downloaded form
 *   An edited version of the downloaded form. The edited version will have a tab for each category of permissions:  
@@ -72,11 +72,11 @@ _Saved to related Collections folder in K: Central Kellen share_
 	4. declined.  
 Note: Any student with an incomplete submission will be removed from this form, as will duplicate form submissions. Collaborations between students will be listed as one submission, any additional form responses will be removed from the spreadsheet.  
 
-_Saved to Digital Archives, Collective Access, Import, Collection folder_
+_Saved to Digital Archives > Collective Access > Import > Collection folder_
 
 *   CA Thesis import spreadsheet. 
 
-_Saved to Archivist_Toolkit/spreadsheet_import_
+_Saved to Archivist_Toolkit > spreadsheet_import_
 
 *   Sheet used for AT import of new series for Resource record
 
@@ -140,17 +140,13 @@ This section can be found in the [Archivist's Toolkit_Description](https://docs.
 
 Thesis submissions should be reviewed for possible deaccessions. There are three common reasons for deaccessioning a thesis submission: 
 
-
-
 *   **Incomplete submission**: The student failed to submit a written thesis along with their media. 
 *   **No agreement form**: The student did not submit a permissions agreement to the archives.
 *   **Missing files**: media cannot be opened due to missing data, or student did not submit any media along with their agreement form.
 
 **Sample deaccession note for 2018 submissions**
 
-<iframe src="https://drive.google.com/file/d/1zff7HBQhBAxOKN0pMwxBTOFrtgvAoJ6t/preview"></iframe>
-
-
+<iframe src="https://drive.google.com/file/d/1zff7HBQhBAxOKN0pMwxBTOFrtgvAoJ6t/preview" width="640"></iframe>
 
 **Notes**
 

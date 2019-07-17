@@ -35,7 +35,7 @@ The processing archivist will transcribe disks and appraise the contents using Q
 
    *   Note: Audio media may appear as a series of files with the type CD Audio Track [.CDA files].  These will not copy successfully from the disk and must be extracted using EAC.
    
-<iframe src="https://drive.google.com/file/d/14FSKGDrv9vruG7m_PTpwARHYFoapLMCR/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/14FSKGDrv9vruG7m_PTpwARHYFoapLMCR/preview" width="640"></iframe>
 
 [Windows]
 
@@ -46,7 +46,7 @@ The processing archivist will transcribe disks and appraise the contents using Q
 *   Go to _Database > Get CD Information From > Remote Metadata Provider_. EAC will attempt to download information and if there are multiple results, you will be prompted to double-click on the correct one to save.
 *   If no information on audio CD was provided by EAC, assign a title, artist (i.e., the collection creator, unless there is a clearly identified individual or group who is responsible for the recording and/or holds copyright) and year. If applicable, you may also add a genre as well as performer (especially if others have contributed to the recording) and composer.  If known, you may also add titles to the individual tracks.
 
-<iframe src="https://drive.google.com/file/d/1m9foX_VD8PloIgwJsGPcJHbWzAQq63Ue/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1m9foX_VD8PloIgwJsGPcJHbWzAQq63Ue/preview" width="640"></iframe>
 
 *   After making sure that the check boxes next to all tracks are filled, select _Action > Copy Selected Tracks > Uncompressed_.   
 
@@ -55,7 +55,7 @@ The processing archivist will transcribe disks and appraise the contents using Q
 *   Go to _Action > Create CUE Sheet > Multiple WAV Files (with corrected gaps)…_; save the resulting file (which will automatically be named with the CD title) alongside the WAV files and log. This CUE sheet (plain text) will contain all the metadata you entered as well as information on track listing and timing.
 *   The resulting files will serve as your uncompressed, master WAV files for preservation and may be compressed into MP3 Access Files.
 
-### Step 3. Compress WAV Files into MP3 Files
+### Step 2. Compress WAV Files into MP3 Files
 
 *   Open EAC, and verify that software configuration is correct as described below.
 *   Go to EAC > Compression Options >External Compression
@@ -77,11 +77,11 @@ Full command line options may be found at:
 
 *   Important: Make sure that “Delete WAV after compression” is _un_checked_. If this box is checked, your working uncompressed WAV files will be deleted, and you may be forced to re-transfer files from the disk.
 
-<iframe src="https://drive.google.com/file/d/1jgPvnKx-fToElOyo3HJ0o9Z_PYmcer1p/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1jgPvnKx-fToElOyo3HJ0o9Z_PYmcer1p/preview" width="640"></iframe>
 
 *   Select uncompressed WAV files, and drag them into the EAC window.
 
-<iframe src="https://drive.google.com/file/d/1_Rx99DZuODQcuqtu0AbKZU2LpCMUjlyw/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1_Rx99DZuODQcuqtu0AbKZU2LpCMUjlyw/preview" width="640"></iframe>
 
 *   In the pop-up browser, navigate to the destination for your compressed MP3 files.
 *   When compression is complete, click OK.
@@ -89,18 +89,18 @@ Full command line options may be found at:
 *   After creating audio access files, playback audio for a few seconds at the beginning, middle, and end to spot check quality, audio, and rule out other potential file issues.
 *   Transfer Access and Preservation files to the appropriate locations using TeraCopy.
 
-### Step 4. Configure Exact Audio Copy (EAC) for Audio File Extraction and Creation
+### Step 3. Configure Exact Audio Copy (EAC) for Audio File Extraction and Creation
 
 [Windows]
 
 *   Open Exact Audio Copy (EAC)
 *   Go to EAC > EAC Options > Character Replacements. Make sure that quotations marks (“), carets (^) and percent symbols (%) are not replaced by another character:
 
-<iframe src="https://drive.google.com/file/d/1D9CRQ0ACirKp8RmrZkMK6ZrGL4Ml0iZG/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1D9CRQ0ACirKp8RmrZkMK6ZrGL4Ml0iZG/preview" width="640"></iframe>
 
 *   Go to EAC > EAC Options > Write. Disable the option to use all uppercase characters on writing: 
 
-<iframe src="https://drive.google.com/file/d/1rDQaCpKBjffnDIv92MtKwb7S0FpWIHic/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1rDQaCpKBjffnDIv92MtKwb7S0FpWIHic/preview" width="640"></iframe>
 
 *   Go to EAC > EAC Options > Tools. Enable options to write a status report after extraction and to append a checksum to this report.
 
@@ -120,7 +120,7 @@ _Note: One way to recognize video media is by its AUDIO_TS and VIDEO_TS folders:
 
 *   Open Handbrake 
 *   Select  ‘Open Source’
-    *   Add DVD
+    *   Add DVD or File 
         1. Under “Source Selection,” select the ‘File’  
         2. Select the D: drive, then hit ‘Open’ 
             * the “Titles” menu will show if there is more than one video on the disc
@@ -142,13 +142,13 @@ _Note: One way to recognize video media is by its AUDIO_TS and VIDEO_TS folders:
             * Constant Quality: 20 RF
         6. Select Audio Settings
             * Navigate to the Audio tab, and select the appropriate quality settings.
-        * Select the Audio tab and AAC (ffmpeg) Codec. 
-        * Choose: 
-            * 48.000 Hz Sample Rate. 
-            * Stereo for Mixdown. 
-            * Choose at least 160 for your audio Bitrate. If you encounter artifacts or other audio issues, increase bitrate to 320 or higher.
+            * Select the Audio tab and AAC (ffmpeg) Codec. 
+             * Choose: 
+                * 48.000 Hz Sample Rate. 
+                * Stereo for Mixdown. 
+                * Choose at least 160 for your audio Bitrate. If you encounter artifacts or other audio issues, increase bitrate to 320 or higher.
         7. Check Dimensions
-            * Navigate to the Dimensions tab, and ensure that dimensions (Width and Height) match that of the source video, or, if you are reducing size for compression, ensure that you retain the original ratio and no unnecessary cropping occurs.
+            * Navigate to the Dimensions tab, and ensure that dimensions (Width and Height) match that of the source video, or, if you are reducing size for compression, ensure that you retain the original ratio and no unnecessary cropping occurs. For example, this can be done by using an online [Aspect Ratio Calculator](https://calculateaspectratio.com/). 
         8. Recheck output file name and location
             * Before executing encoding or adding to queue, check “Save As” destination and filename in the bar below the media. This field will automatically populate with the settings you selected earlier under Tools > Preferences > Output Files, but you may change manually.
         9. Add to Queue
@@ -178,18 +178,14 @@ On occasion, larger/longer MP4 Videos may need to be compressed further to facil
 
 Suggested Settings:
 
-<iframe src="https://drive.google.com/file/d/1vsW50tv2NorCSlv9OQqWptCe8Tb-FE5H/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1vsW50tv2NorCSlv9OQqWptCe8Tb-FE5H/preview" width="640"></iframe>
 
-<iframe src="https://drive.google.com/file/d/13nlsOL4Otwc6m8OtSOvAr7DuR2DIUDqb/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/13nlsOL4Otwc6m8OtSOvAr7DuR2DIUDqb/preview" width="640"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1hStEJHSQObzIHU0D0igihuGv_ITNKYuF/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1hStEJHSQObzIHU0D0igihuGv_ITNKYuF/preview" width="640"></iframe>
 
 **Special Format - .rm files** 
-
 https://walkerart.org/magazine/how-to-convert-real-media-video-into-h-264-mp4
 
 # Stage 3. Create DROID Report
-See related manual.
-
-# Stage 4. Create access files based on file type
-See related manuals.
+[See related manual](https://newschoolarchives.github.io/docs/5_data_integrity/18_droid.html).
