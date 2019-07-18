@@ -8,6 +8,8 @@ parent: Born Digital
 
 **_Workflow Type:_ Technical & Communication.** This document describes how theses are collected by department and processed once obtained. 
 
+**[Link to master document.](https://docs.google.com/document/d/1ydcg_fZUqwAxX82C9Agk3MJQ6kPTKDQ-raUkhJXF3EI/edit?usp=sharing)**
+
 # Theses
 {: .no_toc }
 

@@ -8,6 +8,8 @@ parent: Removable Media
 
 **_Workflow Type:_ Technical.** This document describes how to process optical discs after they have been appraised. 
 
+**[Link to master document.](https://docs.google.com/document/d/1NHW56vrZZPwze9HdTcLLr-Wyc3gAJ7wtn9nbpOJ4Znw/edit?usp=sharing)**
+
 # Optical Discs
 {: .no_toc }
 

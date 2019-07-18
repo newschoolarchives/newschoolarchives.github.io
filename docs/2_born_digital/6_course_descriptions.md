@@ -6,7 +6,7 @@ parent: Born Digital
 
 ---
 
-
+**[Link to master document.](https://docs.google.com/document/d/1o9SXGMyJ8qNWHwvJ112KeYuIG9z2gtLrw6hfeoROu04/edit?usp=sharing)**
 
 ## Course Descriptions
 

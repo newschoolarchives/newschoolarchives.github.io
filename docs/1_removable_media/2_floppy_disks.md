@@ -8,6 +8,8 @@ parent: Removable Media
 
 **_Workflow Type:_ Technical.** This document describes how to process floppy disks after they have been appraised. 
 
+**[Link to master document.](https://docs.google.com/document/d/1xiW_uWBhi3fzp_IHT_B9strGWNVOXOUEN5NbwXxug1g/edit?usp=sharing)**
+
 # Disks
 {: .no_toc }
 
