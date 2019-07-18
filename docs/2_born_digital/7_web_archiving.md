@@ -6,7 +6,9 @@ parent: Born Digital
 
 ---
 
-**_Workflow Type:_ Technical.** This document describes how to track and collect data for The New School Web Archive.
+**_Workflow Type:_ Technical.** This document describes how to track and collect data for The New School Web Archive. 
+
+**[Link to master document](https://docs.google.com/document/d/1qnbTw88BD-h3N0A0Pp6Mjsj8PRs1YGWJvP3ASci-yI0/edit?usp=sharing)** 
 
 # Web Archiving
 {: .no_toc }

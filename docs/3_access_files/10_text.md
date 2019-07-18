@@ -8,6 +8,8 @@ parent: Access Files
 
 **_Workflow Type:_ Technical.** This document describes how to create compressed files, and migrate obsolete media. 
 
+**[Link to master document.](https://docs.google.com/document/d/1Jq2VpfHRGNvSzF66e1Ym6StptyC0HOsn0WcskdXWhic/edit?usp=sharing)**
+
 # Text Files
 {: .no_toc }
 

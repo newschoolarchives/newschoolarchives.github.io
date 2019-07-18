@@ -6,7 +6,9 @@ permalink: docs/1_removable_media
 has_children: true
 ---
 
-**_Workflow Type:_ Communication.** This document describes the processing lifecyle for removable media. For technical processing, proceed to media type.
+**_Workflow Type:_ Communication and Technical.** This section describes the processing lifecyle for removable media. For technical processing, proceed to media formats.
+
+**[Link to master document.](https://docs.google.com/document/d/1Qtsq6AoMzNvyHXrSt9qghTaUlBUaz5ReYUgp9KMXIVg/edit?usp=sharing)**
 
 # Removable Media
 {: .no_toc }
