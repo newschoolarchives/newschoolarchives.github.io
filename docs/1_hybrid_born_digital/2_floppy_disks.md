@@ -2,13 +2,11 @@
 layout: default
 title: Floppy Disks
 nav_order: 3
-parent: Removable Media 
+parent: Hybrid and Born-Digital Media
 
 ---
 
-**_Workflow Type:_ Technical.** This document describes how to process floppy disks after they have been appraised. 
-
-**[Link to master document.](https://docs.google.com/document/d/1xiW_uWBhi3fzp_IHT_B9strGWNVOXOUEN5NbwXxug1g/edit?usp=sharing)**
+**[Link to master document.](https://docs.google.com/document/d/1xiW_uWBhi3fzp_IHT_B9strGWNVOXOUEN5NbwXxug1g/edit?usp=sharing)** [Last Updated: Aug 23, 2019]
 
 # Disks
 {: .no_toc }

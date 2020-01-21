@@ -2,13 +2,11 @@
 layout: default
 title: Optical Discs
 nav_order: 4
-parent: Removable Media 
+parent: Hybrid and Born-Digital Media
 
 ---
 
-**_Workflow Type:_ Technical.** This document describes how to process optical discs after they have been appraised. 
-
-**[Link to master document.](https://docs.google.com/document/d/1NHW56vrZZPwze9HdTcLLr-Wyc3gAJ7wtn9nbpOJ4Znw/edit?usp=sharing)**
+**[Link to master document.](https://docs.google.com/document/d/1NHW56vrZZPwze9HdTcLLr-Wyc3gAJ7wtn9nbpOJ4Znw/edit?usp=sharing)** [Last Updated: Aug 23, 2019]
 
 # Optical Discs
 {: .no_toc }

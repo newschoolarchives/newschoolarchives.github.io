@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Removable Media 
+title: Hybrid and Born-Digital Media 
 nav_order: 2
-permalink: docs/1_removable_media
+permalink: docs/1_hybrid_born_digital
 has_children: true
 ---
 
-**_Workflow Type:_ Communication and Technical.** This section describes the processing lifecyle for removable media. For technical processing, proceed to media formats.
-
-**[Link to master document.](https://docs.google.com/document/d/1Qtsq6AoMzNvyHXrSt9qghTaUlBUaz5ReYUgp9KMXIVg/edit?usp=sharing)**
+**[Link to master document.](https://docs.google.com/document/d/1Qtsq6AoMzNvyHXrSt9qghTaUlBUaz5ReYUgp9KMXIVg/edit?usp=sharing)** [Last Updated: Aug 23, 2019]
 
 # Removable Media
 {: .no_toc }

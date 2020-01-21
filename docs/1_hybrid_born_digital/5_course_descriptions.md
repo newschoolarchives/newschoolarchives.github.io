@@ -2,11 +2,11 @@
 layout: default
 title: Course Descriptions
 nav_order: 6
-parent: Born Digital
+parent: Hybrid and Born-Digital Media
 
 ---
 
-**[Link to master document.](https://docs.google.com/document/d/1o9SXGMyJ8qNWHwvJ112KeYuIG9z2gtLrw6hfeoROu04/edit?usp=sharing)**
+**[Link to master document.](https://docs.google.com/document/d/1o9SXGMyJ8qNWHwvJ112KeYuIG9z2gtLrw6hfeoROu04/edit?usp=sharing)** [Last Updated: Aug 23, 2019]
 
 ## Course Descriptions
 
