@@ -2,13 +2,11 @@
 layout: default
 title: Theses
 nav_order: 5
-parent: Born Digital
+parent: Hybrid and Born-Digital Media
 
 ---
 
-**_Workflow Type:_ Technical & Communication.** This document describes how theses are collected by department and processed once obtained. 
-
-**[Link to master document.](https://docs.google.com/document/d/1ydcg_fZUqwAxX82C9Agk3MJQ6kPTKDQ-raUkhJXF3EI/edit?usp=sharing)**
+**[Link to master document.](https://docs.google.com/document/d/1ydcg_fZUqwAxX82C9Agk3MJQ6kPTKDQ-raUkhJXF3EI/edit?usp=sharing)** [Last Updated: Aug 23, 2019]
 
 # Theses
 {: .no_toc }

@@ -2,13 +2,11 @@
 layout: default
 title: Web Archiving
 nav_order: 7
-parent: Born Digital
+parent: Hybrid and Born-Digital Media
 
 ---
 
-**_Workflow Type:_ Technical.** This document describes how to track and collect data for The New School Web Archive. 
-
-**[Link to master document](https://docs.google.com/document/d/1qnbTw88BD-h3N0A0Pp6Mjsj8PRs1YGWJvP3ASci-yI0/edit?usp=sharing)** 
+**[Link to master document](https://docs.google.com/document/d/1qnbTw88BD-h3N0A0Pp6Mjsj8PRs1YGWJvP3ASci-yI0/edit?usp=sharing)** [Last Updated: Aug 23, 2019]
 
 # Web Archiving
 {: .no_toc }
