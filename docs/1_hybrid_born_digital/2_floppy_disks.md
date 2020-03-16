@@ -2,7 +2,7 @@
 layout: default
 title: Floppy Disks
 nav_order: 3
-parent: Hybrid and Born-Digital Media
+parent: Hybrid & Born-Digital Media
 
 ---
 

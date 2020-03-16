@@ -2,7 +2,7 @@
 layout: default
 title: Web Archiving
 nav_order: 7
-parent: Hybrid and Born-Digital Media
+parent: Hybrid & Born-Digital Media
 
 ---
 

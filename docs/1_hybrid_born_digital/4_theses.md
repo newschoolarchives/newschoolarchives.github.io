@@ -2,7 +2,7 @@
 layout: default
 title: Theses
 nav_order: 5
-parent: Hybrid and Born-Digital Media
+parent: Hybrid & Born-Digital Media
 
 ---
 

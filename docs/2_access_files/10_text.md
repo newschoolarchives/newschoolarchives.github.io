@@ -2,7 +2,7 @@
 layout: default
 title: Text Files
 nav_order: 10
-parent: Access Files
+parent: Digital Access Files
 
 ---
 
