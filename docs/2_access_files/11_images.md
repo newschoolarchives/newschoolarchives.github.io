@@ -2,7 +2,7 @@
 layout: default
 title: Image Files
 nav_order: 11
-parent: Access Files
+parent: Digital Access Files
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hybrid and Born-Digital Media 
+title: Hybrid & Born-Digital Media 
 nav_order: 2
 permalink: docs/1_hybrid_born_digital
 has_children: true
@@ -8,7 +8,7 @@ has_children: true
 
 **[Link to master document.](https://docs.google.com/document/d/1Qtsq6AoMzNvyHXrSt9qghTaUlBUaz5ReYUgp9KMXIVg/edit?usp=sharing)** [Last Updated: Aug 23, 2019]
 
-# Removable Media
+# Hybrid & Born-Digital Media 
 {: .no_toc }
 
 ## Table of Contents

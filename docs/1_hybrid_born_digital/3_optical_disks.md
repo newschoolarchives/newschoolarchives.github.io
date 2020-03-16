@@ -2,7 +2,7 @@
 layout: default
 title: Optical Discs
 nav_order: 4
-parent: Hybrid and Born-Digital Media
+parent: Hybrid & Born-Digital Media
 
 ---
 

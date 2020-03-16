@@ -2,7 +2,7 @@
 layout: default
 title: Digital Transfers
 nav_order: 8
-parent: Hybrid and Born-Digital Media
+parent: Hybrid & Born-Digital Media
 
 ---
 
